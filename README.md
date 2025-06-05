@@ -1,0 +1,2 @@
+# convenience-store-scraper
+ファミマやローソンの公式サイトをスクレイピングするPythonツール
